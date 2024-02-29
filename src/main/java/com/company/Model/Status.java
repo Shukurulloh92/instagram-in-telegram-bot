@@ -1,0 +1,18 @@
+package com.company.Model;
+
+public enum Status {
+    REGISTER,
+    FULL_NAME,
+    USERNAME,
+    PASSWORD,
+    AVATAR_URL,
+    LOGIN,
+    CHECK_PASSWORD,
+    CHANGE_USERNAME,
+    CHANGE_PASSWORD,
+    CHANGE_MAIN_PHOTO,
+    DELETE_ACCOUNT,
+    SUCCESSFUL,
+    ADD_MEDIA,
+    ADD_COMMENT
+}
